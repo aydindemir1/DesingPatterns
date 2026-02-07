@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="FactoryMethodPattern/FactoryMethodPattern.csproj" Id="f88481dd-c632-498e-be42-7b79857beea6" />
+  <Project Path="FactoryMethodPattern2/FactoryMethodPattern2.csproj" Id="e3a9a28c-2b3b-445e-b3d4-6c948566fa94" />
   <Project Path="StrategyPattern/StrategyPattern.csproj" />
   <Project Path="StrategyPattern2/StrategyPattern2.csproj" />
 </Solution>
