@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="AbstractFactoryPattern/AbstractFactoryPattern.csproj" Id="6c43dbb0-f744-435f-8ee3-780246a85df2" />
+  <Project Path="AbstractFactoryPattern2/AbstractFactoryPattern2.csproj" Id="453c46ba-6dcc-45eb-b78e-b435aa6be20b" />
   <Project Path="FactoryMethodPattern/FactoryMethodPattern.csproj" Id="f88481dd-c632-498e-be42-7b79857beea6" />
   <Project Path="FactoryMethodPattern2/FactoryMethodPattern2.csproj" Id="e3a9a28c-2b3b-445e-b3d4-6c948566fa94" />
   <Project Path="StrategyPattern/StrategyPattern.csproj" />
